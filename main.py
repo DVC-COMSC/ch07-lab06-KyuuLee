@@ -11,7 +11,7 @@ for i in range(len(numbers1)):
 
 
 print ("The original list: ", numbers1)
-# print ("The reverse list: ", numbers2)
+print ("The reverse list: ", numbers2)
 
 
-print ('slkjfsjlf', '1 2 4 5 3');
+# print ('slkjfsjlf', '1 2 4 5 3');
