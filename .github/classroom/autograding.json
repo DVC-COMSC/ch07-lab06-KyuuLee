@@ -5,7 +5,7 @@
       "setup": "",
       "run": "python main.py",
       "input": "1 2 3 4 5",
-      "output": "[\\D]*5[\\D]*4[\\D]*3[\\D]*2[\\D]*1[\\D]*",
+      "output": "[\\W, \\w]*5[\\w, \\W]*4[\\W, \\w]*3[\\W, \\w]*2[\\w, \\W]*1[\\w, \\W]*",
       "comparison": "regex",
       "timeout": 10,
       "points": 1
